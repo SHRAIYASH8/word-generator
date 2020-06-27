@@ -29,4 +29,11 @@
     padding: 10px 35px;
     margin: 25px 0;
   }
+  textarea{
+      text-align: center;
+      outline: none;
+      background-color: #e2c1ab;   
+      padding: 35px 35px; 
+      color: #172035
+  }
   
